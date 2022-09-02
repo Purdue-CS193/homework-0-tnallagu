@@ -24,6 +24,13 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+# Tejasvi's First CS193 Homework
+## Reasons I like CS 193:
+- It gives me the opportunity to learn helpful and practical knowledge I can apply towards my classes
+- It is taught by peers who have gone through a similar learning curve
+- Helps figure out framework and tools used in CS courses making it easier to navigate them and their associated homework 
+- Helps me feel more confident in my major courses
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
