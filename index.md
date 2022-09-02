@@ -3,6 +3,12 @@
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Tejasvi's First CS193 Homework
+## Reasons I like CS 193:
+- It gives me the opportunity to learn helpful and practical knowledge I can apply towards my classes
+- It is taught by peers who have gone through a similar learning curve
+- Helps figure out framework and tools used in CS courses making it easier to navigate them and their associated homework 
+- Helps me feel more confident in my major courses
 
 ### Markdown
 
@@ -25,12 +31,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-# Tejasvi's First CS193 Homework
-## Reasons I like CS 193:
-- It gives me the opportunity to learn helpful and practical knowledge I can apply towards my classes
-- It is taught by peers who have gone through a similar learning curve
-- Helps figure out framework and tools used in CS courses making it easier to navigate them and their associated homework 
-- Helps me feel more confident in my major courses
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
